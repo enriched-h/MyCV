@@ -1,0 +1,57 @@
+
+body{background:#DCDCDC;
+height: 100%;
+			width: 100%;
+			margin: 0;
+			padding: 0;
+	
+}
+h1 {
+	width: 100%;
+    color: white;
+	gfont-family: Arial, Helvetica, sans-serif;
+	text: normal;
+	
+	
+}
+
+
+h2 {font:Open Sans;
+    color: white;
+    text-align:center;
+	background: #8D918D;
+	text: normal;
+	width: 100%;
+	
+	text-align: center;"
+}
+	
+h3 {
+	width: 100%;
+	
+}
+
+h4{
+	width: 100%;
+	
+}
+
+div { background:#808080;
+      color:white;
+	  text-align:center
+}
+
+	
+ul {
+	margin-right:50px;
+	margin-left:50px;
+	
+}
+	
+	
+
+img{height:75px;
+    width: 75px;
+	border: 2px #808080;
+    border-radius: 15px;
+}
